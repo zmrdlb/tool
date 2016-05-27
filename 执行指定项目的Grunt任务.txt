@@ -1,0 +1,7 @@
+﻿如执行med的Grunt任务。
+
+定位到med目录下，运行命令：
+
+grunt --base=D:\mycoderoot\nongfu\assets\tool\node_modules
+
+--base=grunt组件安装目录
