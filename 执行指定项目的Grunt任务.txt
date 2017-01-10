@@ -2,6 +2,6 @@
 
 定位到med目录下，运行命令：
 
-grunt -v --base=D:\mycoderoot\nongfu\assets\tool\node_modules
+grunt -v --base=D:\mycoderoot\project-frame\tool\node_modules
 
 --base=grunt组件安装目录
